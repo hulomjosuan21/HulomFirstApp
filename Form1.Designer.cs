@@ -43,9 +43,9 @@ namespace HulomFirstApp
             this.btnGreen.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnGreen.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGreen.ForeColor = System.Drawing.Color.LimeGreen;
-            this.btnGreen.Location = new System.Drawing.Point(12, 312);
+            this.btnGreen.Location = new System.Drawing.Point(41, 446);
             this.btnGreen.Name = "btnGreen";
-            this.btnGreen.Size = new System.Drawing.Size(160, 73);
+            this.btnGreen.Size = new System.Drawing.Size(278, 110);
             this.btnGreen.TabIndex = 0;
             this.btnGreen.Text = "Green";
             this.btnGreen.UseVisualStyleBackColor = false;
@@ -59,9 +59,9 @@ namespace HulomFirstApp
             this.btnBlue.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnBlue.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBlue.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.btnBlue.Location = new System.Drawing.Point(178, 312);
+            this.btnBlue.Location = new System.Drawing.Point(325, 446);
             this.btnBlue.Name = "btnBlue";
-            this.btnBlue.Size = new System.Drawing.Size(159, 73);
+            this.btnBlue.Size = new System.Drawing.Size(278, 110);
             this.btnBlue.TabIndex = 1;
             this.btnBlue.Text = "Blue";
             this.btnBlue.UseVisualStyleBackColor = false;
@@ -75,9 +75,9 @@ namespace HulomFirstApp
             this.btnRed.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnRed.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRed.ForeColor = System.Drawing.Color.Red;
-            this.btnRed.Location = new System.Drawing.Point(343, 312);
+            this.btnRed.Location = new System.Drawing.Point(609, 446);
             this.btnRed.Name = "btnRed";
-            this.btnRed.Size = new System.Drawing.Size(160, 73);
+            this.btnRed.Size = new System.Drawing.Size(278, 110);
             this.btnRed.TabIndex = 2;
             this.btnRed.Text = "Red";
             this.btnRed.UseVisualStyleBackColor = false;
@@ -89,7 +89,7 @@ namespace HulomFirstApp
             this.pnlColor.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pnlColor.Location = new System.Drawing.Point(0, 0);
             this.pnlColor.Name = "pnlColor";
-            this.pnlColor.Size = new System.Drawing.Size(515, 296);
+            this.pnlColor.Size = new System.Drawing.Size(923, 443);
             this.pnlColor.TabIndex = 3;
             this.pnlColor.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -97,14 +97,11 @@ namespace HulomFirstApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(515, 397);
+            this.ClientSize = new System.Drawing.Size(923, 568);
             this.Controls.Add(this.pnlColor);
             this.Controls.Add(this.btnRed);
             this.Controls.Add(this.btnBlue);
             this.Controls.Add(this.btnGreen);
-            this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(531, 436);
-            this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(531, 436);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
