@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HulomFirstApp", "HulomFirstApp.csproj", "{BEB2E968-8040-4EB8-B87E-8805F626060E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB2E968-8040-4EB8-B87E-8805F626060E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB2E968-8040-4EB8-B87E-8805F626060E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB2E968-8040-4EB8-B87E-8805F626060E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB2E968-8040-4EB8-B87E-8805F626060E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F28EAE-E3F7-4278-8E35-D89852927854}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\bin\Debug\HulomFirstApp.exe.config
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\bin\Debug\HulomFirstApp.exe
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\bin\Debug\HulomFirstApp.pdb
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.csproj.AssemblyReference.cache
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.Properties.Resources.resources
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.csproj.GenerateResource.cache
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.exe
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.pdb
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.Form1.resources
