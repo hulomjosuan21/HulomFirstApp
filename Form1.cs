@@ -13,7 +13,7 @@ namespace HulomFirstApp
     public partial class Form1 : Form
     {
         private Color[] listOfColor = { Color.Blue, Color.Red, Color.Green };
-        private string[] texts = { "Puya skwela, way kiss" , "Kaulion nako", "Absent ko ugma" };
+        private string[] texts = { "Tagal Labasan" , "Kaulion nako", "Absent ko ugma" };
         private Random random = new Random();
         public Form1()
         {

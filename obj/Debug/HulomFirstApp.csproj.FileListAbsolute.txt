@@ -8,3 +8,5 @@ C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.csproj.Cor
 C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.exe
 C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.pdb
 C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.Form1.resources
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.Main.resources
+C:\Users\FOR CLONE\source\repos\HulomFirstApp\obj\Debug\HulomFirstApp.Result.resources
